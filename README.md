@@ -16,12 +16,11 @@
 ---
 
 ## 👨‍💻 About Me
-
 ```ts
 const zeyad = {
   name: "Zeyad Omer",
   role: "Software Engineer",
-  passion: "Building AI-automated websites & apps",
+  passion: "Building AI-automated websites &amp; apps",
   focus: ["Full-Stack Development", "AI Automation", "Clean UI/UX"],
   currentlyLearning: ["Advanced AI Agents", "System Design"],
   funFact: "I let AI handle the boring stuff so I can build the cool stuff ⚡",
